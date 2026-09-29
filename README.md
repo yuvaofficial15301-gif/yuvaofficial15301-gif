@@ -1,111 +1,154 @@
 
 <div align="center">
 
-# YUVARAJ
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0B1020,50:123C69,100:00C2FF&text=YUVARAJ&fontColor=FFFFFF&fontSize=68&fontAlignY=45&animation=fadeIn&stroke=00C2FF&strokeWidth=1" width="100%" alt="Yuvaraj — Developer Profile"/>
 
 ### AI & DATA SCIENCE ENGINEERING STUDENT
 
-**Building ideas into practical technology.**
+**Engineering ideas into intelligent, practical solutions.**
 
-Interested in Artificial Intelligence, Software Engineering,  
-and developing solutions to real-world problems.
+Exploring the intersection of Artificial Intelligence,  
+Software Engineering, and real-world problem solving.
 
 <br/>
 
 <a href="https://github.com/yuvaofficial15301-gif">
-  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<img src="https://img.shields.io/badge/Focus-AI%20%26%20Software-2563EB?style=for-the-badge" alt="AI and Software"/>
-<img src="https://img.shields.io/badge/Mindset-Always%20Learning-0F766E?style=for-the-badge" alt="Always Learning"/>
+<img src="https://img.shields.io/badge/AI%20%26%20ML-0B6E99?style=for-the-badge&logo=brain&logoColor=white" alt="AI and Machine Learning"/>
+<img src="https://img.shields.io/badge/Software%20Engineering-243B64?style=for-the-badge&logo=codefactor&logoColor=white" alt="Software Engineering"/>
+
+<br/><br/>
+
+<a href="#about">ABOUT</a> &nbsp; • &nbsp;
+<a href="#technology">TECHNOLOGY</a> &nbsp; • &nbsp;
+<a href="#projects">PROJECTS</a> &nbsp; • &nbsp;
+<a href="#principles">ENGINEERING PRINCIPLES</a>
 
 </div>
 
 ---
 
-## `01` — ABOUT ME
+<a id="about"></a>
+
+## 01 / ABOUT
 
 I'm an Artificial Intelligence and Data Science engineering student
-interested in the intersection of intelligent systems and software development.
+interested in building software that solves meaningful problems.
 
-I enjoy exploring new technologies, solving programming problems,
-and turning ideas into working applications.
+My focus is on developing strong engineering fundamentals,
+understanding how intelligent systems work, and transforming
+ideas into functional, well-structured applications.
 
-- **Currently exploring:** AI, Machine Learning & Software Development
-- **Interested in:** Practical AI applications and full-stack engineering
-- **Building:** Projects that strengthen my technical and problem-solving skills
-- **Philosophy:** Learn continuously. Build consistently. Improve deliberately.
+Rather than learning technologies in isolation, I aim to apply
+what I learn through practical projects, experimentation,
+and continuous improvement.
+
+**CURRENT DIRECTION**
+
+- Artificial Intelligence & Machine Learning
+- Software Development & System Design
+- Problem Solving & Data Structures
+- Building and documenting practical applications
 
 ---
 
-## `02` — TECHNICAL INTERESTS
+<a id="technology"></a>
+
+## 02 / TECHNOLOGY
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-6C63FF?style=flat-square" alt="Artificial Intelligence"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-0F766E?style=flat-square" alt="Machine Learning"/>
-<img src="https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Git and GitHub"/>
-<img src="https://img.shields.io/badge/Software%20Engineering-2563EB?style=flat-square" alt="Software Engineering"/>
+### LANGUAGES
+
+<img src="https://skillicons.dev/icons?i=python,java,c,js&theme=dark" alt="Programming language icons"/>
+
+### DEVELOPMENT TOOLS
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Development tool icons"/>
+
+### AREAS OF INTEREST
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-14213D?style=flat-square" alt="Artificial Intelligence"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-14213D?style=flat-square" alt="Machine Learning"/>
+<img src="https://img.shields.io/badge/Backend%20Development-14213D?style=flat-square" alt="Backend Development"/>
+<img src="https://img.shields.io/badge/Software%20Architecture-14213D?style=flat-square" alt="Software Architecture"/>
 
 </div>
 
-*These are my areas of learning and interest. My repositories will
-show my practical experience as I continue building.*
+*Technologies and areas shown here represent my learning interests.
+My repositories demonstrate my actual implementations and experience.*
 
 ---
 
-## `03` — PROJECTS
+<a id="projects"></a>
 
-> Ideas are a starting point. Implementation, documentation,
-> and continuous improvement bring them to life.
+## 03 / SELECTED WORK
 
-<!-- Replace these placeholders with links to real repositories. -->
+I use projects to turn concepts into implementations,
+explore technical approaches, and learn through real development.
 
-| Project | Description | Status |
-|---|---|---|
-| Project One | Add a concise description of a real project. | In progress |
-| Project Two | Explain the problem it solves and your approach. | In progress |
-| Project Three | Showcase another meaningful technical project. | Planned |
+<!-- Add verified repository links and descriptions here. -->
+
+| PROJECT | ENGINEERING FOCUS |
+|:--|:--|
+| **Project 01** | Add your strongest completed project and its purpose. |
+| **Project 02** | Add a second project and the technical challenge it addresses. |
+| **Project 03** | Add another project demonstrating a different skill. |
+
+<div align="center">
+
+<a href="https://github.com/yuvaofficial15301-gif?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-0B1020?style=for-the-badge&logo=github&logoColor=00C2FF" alt="Explore repositories"/>
+</a>
+
+</div>
 
 ---
 
-## `04` — MY APPROACH
+<a id="principles"></a>
+
+## 04 / ENGINEERING PRINCIPLES
 
 ```text
-Learn       → Understand the fundamentals
-Experiment  → Explore ideas and technologies
-Build       → Turn concepts into working projects
-Document    → Make the work understandable
-Improve     → Learn from feedback and iterate
+01  UNDERSTAND    Study the problem before the solution.
+02  DESIGN        Choose a clear, maintainable approach.
+03  IMPLEMENT     Turn ideas into working software.
+04  VALIDATE      Test assumptions and verify results.
+05  ITERATE       Improve through evidence and feedback.
 ```
 
-I believe that strong engineering comes from curiosity,
-consistent practice, and the willingness to understand
-not only how something works, but why it works.
+I believe good engineering is not just about making something
+work. It is about understanding trade-offs, writing maintainable
+code, validating results, and improving the solution over time.
 
 ---
 
-## `05` — BEYOND THE CODE
+## 05 / CURRENT MISSION
 
-- Exploring emerging technologies and their real-world applications
-- Improving problem-solving and software design skills
-- Learning through hands-on experimentation
-- Working toward building useful, reliable software
+- Strengthen programming and computer science fundamentals.
+- Develop practical AI and software engineering projects.
+- Improve code quality, testing, and technical documentation.
+- Learn by building, experimenting, and reviewing results.
 
 ---
 
 <div align="center">
 
-### BUILD. LEARN. ITERATE.
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:123C69,100:00C2FF&section=footer" width="100%" alt="Blue divider"/>
 
-*This profile is a record of my engineering journey —  
-the projects I build, the skills I develop, and the problems I learn to solve.*
+### BUILD WITH PURPOSE. ENGINEER WITH PRECISION.
+
+*Learn continuously. Build deliberately. Improve relentlessly.*
 
 <br/>
 
 <a href="https://github.com/yuvaofficial15301-gif">
-  <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories"/>
+  <img src="https://img.shields.io/badge/CONNECT%20ON-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="Connect on GitHub"/>
 </a>
+
+<br/><br/>
+
+<sub>Designed with curiosity and a commitment to continuous learning.</sub>
 
 </div>
